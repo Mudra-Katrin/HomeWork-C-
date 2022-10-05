@@ -9,5 +9,6 @@ int y = int.Parse(value2);
 int max = x;
 if (x > y) max = x;
 if (y > x) max = y;
+Console.Write("max = "); 
 Console.WriteLine(max);    
 
