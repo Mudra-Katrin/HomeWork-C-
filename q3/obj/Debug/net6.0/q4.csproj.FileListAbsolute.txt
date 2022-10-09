@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.AssemblyInfo.cs
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\bin\Debug\net6.0\q4.exe
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\bin\Debug\net6.0\q4.deps.json
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\bin\Debug\net6.0\q4.runtimeconfig.json
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\bin\Debug\net6.0\q4.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\bin\Debug\net6.0\q4.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\refint\q4.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\q4.genruntimeconfig.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз\HomeWork-C-\q4\obj\Debug\net6.0\ref\q4.dll

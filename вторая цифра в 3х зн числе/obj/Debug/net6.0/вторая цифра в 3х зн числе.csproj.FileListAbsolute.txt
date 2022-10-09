@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.AssemblyInfo.cs
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\bin\Debug\net6.0\вторая цифра в 3х зн числе.exe
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\bin\Debug\net6.0\вторая цифра в 3х зн числе.deps.json
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\bin\Debug\net6.0\вторая цифра в 3х зн числе.runtimeconfig.json
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\bin\Debug\net6.0\вторая цифра в 3х зн числе.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\bin\Debug\net6.0\вторая цифра в 3х зн числе.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\refint\вторая цифра в 3х зн числе.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\вторая цифра в 3х зн числе.genruntimeconfig.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вторая цифра в 3х зн числе\obj\Debug\net6.0\ref\вторая цифра в 3х зн числе.dll

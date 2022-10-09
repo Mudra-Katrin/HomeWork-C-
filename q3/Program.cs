@@ -1,20 +1,9 @@
-﻿Console.WriteLine("Введите число x");
-string value = Console.ReadLine();
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Напишите число");
+int customValue = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите число y");
-string value2 = Console.ReadLine();
-
-Console.WriteLine("Введите число z");
-string value3 = Console.ReadLine();
-
-int x = int.Parse(value);
-int z = int.Parse(value3);
-int y = int.Parse(value2);
-
-int max = x;
-
-if (x > y) max = x;
-if (y > x) max = y;
-if (z > y) max = z;
-Console.Write("max = "); 
-Console.WriteLine(max); 
+if (customValue%2==0){
+    Console.WriteLine("четное");
+}else{
+    Console.WriteLine(" не четное");
+}
