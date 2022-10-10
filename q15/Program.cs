@@ -5,9 +5,11 @@ int finishWeek =7;
 Console.WriteLine("Введите номер дня недели:");
 
 int numberDayWeek = int.Parse(Console.ReadLine());
-if(numberDayWeek >=6){
+if (numberDayWeek>=startWeek || numberDayWeek<=finishWeek);{
+    if(numberDayWeek >=6){
     Console.WriteLine("Данный день выходной");
 }
 else{
     Console.WriteLine("Данный день будний");
 }
+}    
