@@ -1,0 +1,30 @@
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\bin\Debug\net6.0\вывод 3ей цифры или нет такой.exe
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\bin\Debug\net6.0\вывод 3ей цифры или нет такой.deps.json
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\bin\Debug\net6.0\вывод 3ей цифры или нет такой.runtimeconfig.json
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\bin\Debug\net6.0\вывод 3ей цифры или нет такой.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\bin\Debug\net6.0\вывод 3ей цифры или нет такой.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.AssemblyInfo.cs
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\refint\вывод 3ей цифры или нет такой.dll
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\вывод 3ей цифры или нет такой.genruntimeconfig.cache
+C:\Users\Ира\Desktop\обучение\1 C#\дз 2 урок\вывод 3ей цифры или нет такой\obj\Debug\net6.0\ref\вывод 3ей цифры или нет такой.dll
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\bin\Debug\net6.0\вывод 3ей цифры или нет такой.exe
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\bin\Debug\net6.0\вывод 3ей цифры или нет такой.deps.json
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\bin\Debug\net6.0\вывод 3ей цифры или нет такой.runtimeconfig.json
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\bin\Debug\net6.0\вывод 3ей цифры или нет такой.dll
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\bin\Debug\net6.0\вывод 3ей цифры или нет такой.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.AssemblyInfo.cs
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.dll
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\refint\вывод 3ей цифры или нет такой.dll
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\вывод 3ей цифры или нет такой.genruntimeconfig.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q13\obj\Debug\net6.0\ref\вывод 3ей цифры или нет такой.dll
