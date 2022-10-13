@@ -19,7 +19,7 @@ int  ReverseNumber(int number){
 }
 
 bool IsNumberVaid(int number){
-    if(number < 10000 || number > 10000)
+    if(number < 10000 || number > 99999)
           return false;
 
     return true;      
@@ -42,4 +42,3 @@ else{
     Console.WriteLine("Error");
 }
 
-Console.WriteLine("Hello, World!");
