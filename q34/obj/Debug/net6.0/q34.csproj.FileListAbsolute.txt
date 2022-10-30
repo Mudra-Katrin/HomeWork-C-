@@ -1,0 +1,5 @@
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q34\obj\Debug\net6.0\q34.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q34\obj\Debug\net6.0\q34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q34\obj\Debug\net6.0\q34.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q34\obj\Debug\net6.0\q34.AssemblyInfo.cs
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q34\obj\Debug\net6.0\q34.csproj.CoreCompileInputs.cache
