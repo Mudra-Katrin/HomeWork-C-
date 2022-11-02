@@ -22,9 +22,11 @@ double[] MakeRandomDoubleArray(int arrayLength, int minValue, int maxValue)
     double[] madeArray = new double[arrayLength];
     for (int i = 0; i < arrayLength; i++)
     {
-        double tmp = new Random().NextDouble() * (maxValue - minValue) + minValue;
+        double tmp =new Random().Next(minValue, maxValue) + new Random().NextDouble();
+        //new Random().NextDouble() * (maxValue - minValue) + minValue;
         madeArray[i] = Math.Round(tmp, 2);
     }
+    //array[i] = rand.Next(-100, 100) + rand.NextDouble();
     return madeArray;
 }
 
