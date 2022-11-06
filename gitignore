@@ -1,0 +1,17 @@
+
+*/net6.0/*
+*.json
+*.csproj
+*.exe
+*.txt
+*.editorconfig
+*.cache
+*.g.*
+*.pdb
+*.dll
+*.sln
+*.props
+*.png
+*/obj/*
+.vscode
+.gitignore
