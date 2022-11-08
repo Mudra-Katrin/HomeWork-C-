@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\bin\Debug\net6.0\q47.exe
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\bin\Debug\net6.0\q47.deps.json
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\bin\Debug\net6.0\q47.runtimeconfig.json
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\bin\Debug\net6.0\q47.dll
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\bin\Debug\net6.0\q47.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.AssemblyInfo.cs
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.dll
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\refint\q47.dll
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.pdb
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\q47.genruntimeconfig.cache
+C:\Users\Ира\Desktop\обучение\1 C#\ДЗ\q47\obj\Debug\net6.0\ref\q47.dll
