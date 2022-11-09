@@ -4,9 +4,7 @@ int n = Prompt("Ввведите количество строк");
 int m = Prompt("Ввведите количество столбцов");
 int[,] array = CreateArray(n, m, 0, 100);
 int[] summ = new int[m];
-// int[,] element = new int[n, m];
-// MidleSummaInCol (element);
-// Summa int (int[,]b);
+
 PrintArray(array);
 
 int Prompt(string massage)
