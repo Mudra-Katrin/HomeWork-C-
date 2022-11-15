@@ -9,7 +9,8 @@ PrintArray(matrix);//метод для печати массива
 SortMatrix(matrix);// метод сортировки массива
 
 Console.WriteLine("\nМассив с упорядоченными значениями");
-// как он будет выводить новый без понятия
+
+PrintArray(matrix);// метод для вывода массива
 int[,] CreateArray(int n, int m, int minValue, int maxValue)// метод создания рандомного массива
 {
     int[,] tmp = new int[n, m];
@@ -23,15 +24,16 @@ int[,] CreateArray(int n, int m, int minValue, int maxValue)// метод соз
     }
     return tmp;
 }
-void PrintArray(int[,] matrix)
+void PrintArray(int[,] inputMatrix)
 {
-    for (int i = 0; i < matrix.GetLength(0); i++)
+    for (int i = 0; i < inputMatrix.GetLength(0); i++)
     {
-        for (int j = 0; j < matrix.GetLength(1); i++)
+        for (int j = 0; j < inputMatrix.GetLength(1); j++)
         {
-            Console.Write ($"{matrix[i,j]}");
-            // хотела , чтоб печатался массив, но беда
+            Console.Write ($"{inputMatrix[i,j],6}");
+            
         }
+        Console.WriteLine();
     }
 }
 
@@ -45,7 +47,7 @@ void SortMatrix(int[,] matrix)
         {
             for (int k = 0; k < matrix.GetLength(1) - 1; k++)
             {
-                if (matrix[i, k] > matrix[i, k + 1])
+                if (matrix[i, k] < matrix[i, k + 1])
                 {
                     temp = matrix[i, k];
                     matrix[i, k] = matrix[i, k + 1];
@@ -54,7 +56,7 @@ void SortMatrix(int[,] matrix)
             }
 
         }
-        Console.WriteLine();
+       
     }
 
 }
@@ -64,7 +66,7 @@ int Prompt(string massage)
     int result;
     while (!int.TryParse(Console.ReadLine(), out result) ^ result < 0)
     {
-        Console.WriteLine("Error \n" + massage);
+        Console.Write("Error \n" + massage);
     }
     return result;
 }
