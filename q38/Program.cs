@@ -23,7 +23,7 @@ double[] MakeRandomDoubleArray(int arrayLength, int minValue, int maxValue)
     for (int i = 0; i < arrayLength; i++)
     {
         double tmp =new Random().Next(minValue, maxValue+1) + new Random().NextDouble();
-        //new Random().NextDouble() * (maxValue - minValue) + minValue;
+      
         madeArray[i] = Math.Round(tmp, 2);
     }
     //array[i] = rand.Next(-100, 100) + rand.NextDouble();

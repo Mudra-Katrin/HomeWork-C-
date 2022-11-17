@@ -34,14 +34,15 @@ double[,] CreateArray(int n, int m, int minValue, int maxValue)
     }
     return tmp;
 }
-
+// Console.Write("{0,9}", array[row, col]);
 void PrintArray(double[,] array)
 {
     for (int row = 0; row < array.GetLength(0); row++)
     {
         for (int col = 0; col< array.GetLength(1); col++)
         {
-            Console.Write($"{array[row, col]}");
+            Console.Write("{0,9}", array[row, col]);
+            //Console.Write($"{array[row, col]}");
         }
         Console.WriteLine();
 
